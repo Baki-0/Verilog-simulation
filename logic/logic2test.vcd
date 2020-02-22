@@ -1,0 +1,44 @@
+$date
+	Fri Feb 21 22:18:20 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module LOGIC2TEST $end
+$var wire 1 ! orout $end
+$var wire 1 " andout $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$scope module bbb $end
+$var wire 1 # A $end
+$var wire 1 $ B $end
+$var wire 1 " X $end
+$var wire 1 ! Y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+0#
+0"
+0!
+$end
+#10000
+1!
+1#
+#20000
+1$
+0#
+#30000
+1"
+1#
+#40000
+0"
+0!
+0$
+0#
+#50000
