@@ -1,0 +1,43 @@
+$date
+	Tue Feb 25 20:47:27 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module SRFFtest $end
+$var wire 1 ! nQ $end
+$var wire 1 " Q $end
+$var reg 1 # R $end
+$var reg 1 $ S $end
+$scope module test $end
+$var wire 1 " Q $end
+$var wire 1 # R $end
+$var wire 1 $ S $end
+$var wire 1 ! nQ $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+1#
+1"
+0!
+$end
+#10000
+1!
+0"
+0#
+1$
+#20000
+0!
+1#
+#30000
+1!
+0#
+#40000
+0$
+#50000
